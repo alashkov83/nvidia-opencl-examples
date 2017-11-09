@@ -1,5 +1,8 @@
 nvidia-opencl-examples
 ======================
+Long lost OpenCL examples from CUDA 4.2.9.
 
-Since nvidia currently does not provide any OpenCl examples, I'm hosting the 
-latest OpenCl examples from Cuda version 4.2.9 here. 
+To build:
+```bash
+make -C OpenCL
+```
