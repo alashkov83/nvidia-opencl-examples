@@ -1,0 +1,5 @@
+*~
+*obj
+OpenCL/bin
+OpenCL/common/lib
+shared/lib/libshrutil_x86_64.a
